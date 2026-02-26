@@ -12,7 +12,7 @@ The system allows the user to set feeding time and portion size using a keypad a
 ![Hardware Setup](images/pet2.jpg)
 
 ###  Feeding Mechanism
-![Feeding Mechanism](images/pet2.jpg)
+![Feeding Mechanism](images/pet3.jpg)
 
 ---
 
